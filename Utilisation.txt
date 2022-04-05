@@ -1,0 +1,3 @@
+Utilisation d'heidiSQL : 
+écrire "admin" dans l'utilisateur ainsi que
+ du mot de passe du pc : "N@thandu972", a fin d'utiliser heidiSQL.
